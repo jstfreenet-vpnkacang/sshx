@@ -1,5 +1,5 @@
 Terimakasih Telah Menggunakan Layanan Kami aruga-line Informasi Akun SSH & OpenVPN aruga-line Username       : bot aruga-line
-aruga-libe Password       : bot aruga-line
+aruga-line Password       : bot aruga-line
 =============================== aruga-line Host           : 3.237.33.18
 aruga-line OpenSSH        : 22 aruga-line
 aruga-line Dropbear       : 109, 110, 143, 456
